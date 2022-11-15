@@ -1,0 +1,4 @@
+The apt-get update is responsible for updating the package information using the URLs defined in the sources list. 
+Once the information is updated, the apt-get upgrade takes over and upgrades all the installed packages with the latest version. 
+Any package with no recent release gets skipped.
+
